@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Bhardwaj</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivambhardwaj13579&label=Profile%20views&color=0e75b6&style=flat" alt="shivambhardwaj13579" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivambhardwaj13579" alt="shivambhardwaj13579" /></a> </p>
 
 - 🌱 I’m currently learning **PowerBI, AWS**
