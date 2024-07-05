@@ -1,4 +1,4 @@
-![logo](https://github.com/shivambhardwaj13579/shivambhardwaj13579/blob/main/github-header-image.png)
+![logo](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
