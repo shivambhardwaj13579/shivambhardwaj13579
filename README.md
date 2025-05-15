@@ -24,8 +24,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shivam bhardwaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam bhardwaj" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@shivam21csu325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shivam21csu325" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shivambhardwaj13579gmailcom/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam bhardwaj" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerrank.com/@shivam21csu325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shivam21csu325" height="30" width="40" /></a> -->
 <a href="https://www.leetcode.com/shivambhardwaj13579" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivambhardwaj13579" height="30" width="40" /></a>
 </p>
 
