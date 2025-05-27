@@ -10,9 +10,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivambhardwaj13579" alt="shivambhardwaj13579" /></a> </p>
 <img align="right" alt="GIF" src="https://www.echelonedge.com/wp-content/themes/echelon/assets/img/echelon-data-quipo.gif" width="350" />
 
-- 🔭 I’m currently working on **Amazon Sales Analysis**
+- 🔭 I’m currently working on **Portfolio**
 
-- 🌱 I’m currently learning **Power BI, AWS**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivambhardwaj13579](https://github.com/shivambhardwaj13579)
 
@@ -25,7 +25,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shivambhardwaj13579gmailcom/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam bhardwaj" height="30" width="40" /></a>
-<!-- <a href="https://www.hackerrank.com/@shivam21csu325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shivam21csu325" height="30" width="40" /></a> -->
 <a href="https://www.leetcode.com/shivambhardwaj13579" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivambhardwaj13579" height="30" width="40" /></a>
 </p>
 
