@@ -8,7 +8,7 @@
 <h3 align="center">A passionate Data Analyst from India</h3>
 
 ### 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivambhardwaj13579&theme=matrix" alt="shivambhardwaj13579" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=shivambhardwaj13579&theme=matrix" alt="shivambhardwaj13579" /></a> </p>
 <img align="right" alt="GIF" src="https://www.echelonedge.com/wp-content/themes/echelon/assets/img/echelon-data-quipo.gif" width="350" />
 
 - 🔭 I’m currently working on **Full Stack Projects + DSA**
