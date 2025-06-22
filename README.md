@@ -35,7 +35,7 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivambhardwaj13579&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="shivambhardwaj13579" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivambhardwaj13579&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=true&count_private=false" alt="shivambhardwaj13579" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shivambhardwaj13579&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=true&count_private=false" alt="shivambhardwaj13579" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivambhardwaj13579&theme=chartreuse-dark" alt="shivambhardwaj13579" /></p>
 
